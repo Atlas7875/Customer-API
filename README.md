@@ -10,5 +10,5 @@ Tips:
 Make sure to have:
 1)	intellij downloaded
 2)	Github repo cloned to your desktop
-3)	Research creating a restful API using Spring Boot project
+3)	Research creating a restful API using Spring Boot project.
 
